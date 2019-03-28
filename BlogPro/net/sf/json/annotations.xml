@@ -1,0 +1,5 @@
+<root>
+    <item name='net.sf.json.JsonConfig void setExcludes(java.lang.String[])'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

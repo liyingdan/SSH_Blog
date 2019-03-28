@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BlogPro:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlogPro_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BlogPro/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BlogPro" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lombok" />
+          <element id="library" level="project" name="antlr-2.7.7" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
